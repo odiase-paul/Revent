@@ -99,8 +99,15 @@ body {
     margin-left: 5%;
 }
 
-.page4 img {
-    margin-right: 30px;
+.page4 .old {
+    right: 35px;
+    position: absolute;
+}
+
+.page4 .new {
+    position: relative;
+    bottom: 45px;
+    right: 33px;
 }
 
 .page5 {
@@ -143,7 +150,7 @@ body {
     justify-content: flex-start;
 }
 
-.page6-con h2 {
+.page6-con h3 {
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
@@ -491,14 +498,6 @@ body {
 }
 
 .send h1 {
-    /* background-color: rgb(214, 214, 13);
-    display: inline-block;
-    font-size: 30px;
-    border: 1px solid rgb(214, 214, 13);
-    border-radius: 10px;
-    font-weight: bold;
-    color: black;
-    padding: 20px 50px; */
     background-color: #fce82f;
     margin-left: 120;
     color: black;
@@ -506,10 +505,6 @@ body {
     height: 50px;
     width: 246px;
     border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
     margin-left: 0px;
     padding: 20px 0px 0px 0px;
     font-size: 20px;
