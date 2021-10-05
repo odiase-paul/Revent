@@ -1,0 +1,153 @@
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    body {
+        width: 100vw;
+    }
+    .page1 li {
+        width: 100%;
+        position: relative;
+        bottom: -4px;
+        right: 163px;
+        margin: 15px;
+    }
+    .page2 img {
+        margin-top: -21px;
+        margin-left: -93px;
+        display: block;
+    }
+    .page3 {
+        width: 100vw;
+        margin-left: -111px;
+    }
+    .page3 h1 {
+        position: relative;
+        right: -23px;
+        bottom: 7px;
+        padding-top: 3rem;
+        line-height: 1.5;
+    }
+    .page3 p {
+        position: relative;
+        right: -25px;
+        bottom: 7px;
+        width: 69%;
+    }
+    .page3 h3 {
+        height: 50px;
+        width: 246px;
+        padding: 20px 0px 0px 0px;
+        margin-left: 143px;
+        margin-top: 40px;
+    }
+    .page4 .new {
+        position: relative;
+        bottom: -40px;
+        right: 26px;
+        width: 264px;
+    }
+    .page4 .old {
+        right: 20px;
+        position: absolute;
+        width: 262px;
+        bottom: -81px;
+    }
+    .icon {
+        margin-left: 128px;
+        margin-top: -23px;
+    }
+    .About-us {
+        margin-left: 43%;
+        display: inline-block;
+        margin-bottom: 38px;
+        margin-top: 34px;
+    }
+    .pic img {
+        width: 47vw;
+        height: 54vh;
+        margin-left: -90px;
+        margin-top: -12px;
+    }
+    .page6-con .we {
+        margin-left: 40px;
+    }
+    .page6-con .are {
+        margin-left: 40px;
+        width: 40vw
+    }
+    .page6-con h3 {
+        margin-left: 39px;
+        margin-top: 40px;
+    }
+    .Resume h1 {
+        margin-top: 237%;
+    }
+    .page8 {
+        margin-top: 35px;
+        margin-left: -82px;
+        margin-right: 239px;
+    }
+    .page8 .year1 {
+        height: 56vh;
+    }
+    .page8 .year2 {
+        height: 56vh;
+        margin-left: 9%;
+    }
+    .portfolio h1 {
+        margin-top: 40px;
+    }
+    .page9 ul li {
+        display: block;
+        margin: 27px;
+    }
+    .page10 {
+        margin-left: 15px;
+    }
+    .get {
+        margin-left: 37%;
+    }
+    .page11 {
+        margin-left: -175px;
+    }
+    .call #call1 {
+        margin-left: 65px;
+    }
+    .call h1 {
+        margin-left: 35px;
+    }
+    .call p {
+        margin-left: -4px;
+        width: 50vw;
+    }
+    .mail {
+        margin-left: 59px;
+    }
+    .mail h1 {
+        margin-left: -99px;
+    }
+    .mail p {
+        margin-left: -111px;
+    }
+    .mail #mail1 {
+        margin-left: -57px;
+    }
+    .contact .user {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .contact .pass {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .contact .email {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .contact .comm {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .send {
+        margin-top: 18px;
+        margin-left: 28px;
+    }
+}
