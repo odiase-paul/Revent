@@ -363,6 +363,197 @@
     }
 }
 
+@media only screen and (max-width: 375px) {
+    .page1 li {
+        width: 100%;
+        position: relative;
+        bottom: 20px;
+        right: 75px;
+    }
+    .page2 img {
+        bottom: 3px;
+        right: 0px;
+    }
+    .page3 {
+        width: 100vw;
+    }
+    .page3 h1 {
+        margin-left: 3px;
+        bottom: 7px;
+        width: 81%;
+    }
+    .page3 p {
+        width: 81%;
+        margin-left: 6px;
+        bottom: 7px
+    }
+    .page3 h3 {
+        height: 50px;
+        width: 246px;
+        padding: 20px 0px 0px 0px;
+        margin-left: 5px;
+    }
+    .icon {
+        margin-top: -20px;
+        margin-left: -1px;
+    }
+    #icon1,
+    #icon2,
+    #icon3 {
+        margin: 0px 10px;
+    }
+    .page4 {
+        width: 50px;
+        height: 50px;
+        display: block;
+        margin-top: -642px;
+    }
+    .page4 .old {
+        right: -17px;
+        margin-top: 125px;
+        width: 242px;
+    }
+    .page4 .new {
+        margin-top: 3px;
+        left: 17px;
+        width: 242px;
+    }
+    .page5 {
+        display: block;
+    }
+    .About-us {
+        margin-left: 132px;
+        margin-top: 541px;
+    }
+    .About-us h1 {
+        width: 42vw;
+        margin-left: -30px
+    }
+    .pic img {
+        width: 89vw;
+        height: 51vh;
+        margin-left: -113px;
+        margin-top: -74px;
+    }
+    .page6 {
+        display: block;
+        margin-top: 20%;
+    }
+    .page6-con .we {
+        margin-left: 24px;
+    }
+    .page6 h3 {
+        margin-top: 50px;
+        margin-left: 22px;
+    }
+    .page6-con .are {
+        margin-left: 24px;
+        width: 88vw;
+    }
+    .Resume {
+        margin-top: 200px;
+        margin-left: 35%;
+    }
+    .Resume h1 {
+        margin-top: 124px;
+        margin-left: -31px;
+    }
+    .page8 {
+        display: block;
+        margin-top: 29px;
+    }
+    .page8 .year1 {
+        margin-bottom: -55px;
+        margin-left: 5px;
+        height: 66vh;
+    }
+    .page8 .year2 {
+        margin-left: 5px;
+        margin-top: 54px;
+        height: 54vh;
+    }
+    .portfolio {
+        margin-left: 31%;
+        margin-top: 37px;
+    }
+    .page9 .white {
+        margin-left: 13px;
+    }
+    .page9 ul {
+        list-style-type: none;
+        margin-left: -60px;
+        margin-top: -9px;
+    }
+    .page9 ul li {
+        display: block;
+        margin: 27px;
+    }
+    .page10 {
+        display: block;
+        margin-left: -7px;
+    }
+    .page10 .first img {
+        width: 97vw;
+    }
+    .page10 .second img {
+        width: 97vw;
+    }
+    .page10 .third img {
+        width: 97vw;
+    }
+    .get {
+        margin-left: 22%;
+    }
+    .page11 {
+        display: block;
+        margin-left: -93px;
+    }
+    .call #call1 {
+        margin-left: -50px;
+    }
+    .call h1 {
+        margin-left: -76px;
+    }
+    .call p {
+        margin-left: -115px;
+    }
+    .mail h1 {
+        margin-left: -99px;
+    }
+    .mail p {
+        margin-left: -111px;
+    }
+    .mail #mail1 {
+        margin-left: -57px;
+    }
+    .form {
+        margin-left: -122px;
+    }
+    .contact .user {
+        padding: 0% 21.5%;
+        margin-left: 10px;
+    }
+    .contact .pass {
+        padding: 0% 21.5%;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .contact .email {
+        padding: 0% 21.5%;
+        margin-left: 10px;
+        margin-top: 17px;
+    }
+    .contact .comm {
+        padding: 0% 21.5%;
+        margin-left: 10px;
+    }
+    .send h1 {
+        margin-left: -123px;
+        font-weight: 700;
+        margin-top: 8px;
+    }
+}
+
 @media only screen and (max-width: 360px) {
     .page1 li {
         width: 100%;
@@ -791,7 +982,7 @@
         right: 20px;
         position: absolute;
         width: 262px;
-        bottom: -74px;
+        bottom: 390px;
     }
     .icon {
         margin-left: 128px;
@@ -805,7 +996,7 @@
     }
     .pic img {
         width: 47vw;
-        height: 54vh;
+        height: 30vh;
         margin-left: -90px;
         margin-top: -12px;
     }
@@ -821,7 +1012,7 @@
         margin-top: 40px;
     }
     .Resume h1 {
-        margin-top: 238%;
+        margin-top: 18%;
     }
     .page8 {
         margin-top: 35px;
@@ -829,14 +1020,17 @@
         margin-right: 239px;
     }
     .page8 .year1 {
-        height: 55vh;
+        height: 30vh;
     }
     .page8 .year2 {
-        height: 55vh;
+        height: 30vh;
         margin-left: 9%;
     }
     .portfolio h1 {
         margin-top: 40px;
+    }
+    .page9 .white {
+        margin-left: 14px;
     }
     .page9 ul li {
         display: block;
@@ -894,5 +1088,180 @@
     .send {
         margin-top: 18px;
         margin-left: 28px;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    body {
+        width: 100vw;
+    }
+    .page1 ul {
+        margin-right: 50px;
+    }
+    .page2 img {
+        margin-top: -13px;
+        margin-left: -93px;
+        display: block;
+    }
+    .page3 {
+        width: 100vw;
+        margin-left: -111px;
+    }
+    .page3 h1 {
+        position: relative;
+        right: -95px;
+        bottom: 7px;
+        padding-top: 3rem;
+        line-height: 1.5;
+        width: 36vw;
+    }
+    .page3 p {
+        position: relative;
+        right: -98px;
+        bottom: 7px;
+        width: 88%;
+    }
+    .page3 h3 {
+        height: 50px;
+        width: 246px;
+        padding: 20px 0px 0px 0px;
+        margin-left: 217px;
+        margin-top: 40px;
+    }
+    .page4 .new {
+        position: relative;
+        bottom: -6px;
+        right: 46px;
+        width: 467px;
+    }
+    .page4 .old {
+        right: 36px;
+        position: absolute;
+        width: 467px;
+        bottom: 723px;
+    }
+    .icon {
+        margin-left: 200px;
+        margin-top: -23px;
+    }
+    .About-us {
+        margin-left: 43%;
+        display: inline-block;
+        margin-bottom: 38px;
+        margin-top: 34px;
+    }
+    .pic img {
+        width: 45vw;
+        height: 32vh;
+        margin-left: -77px;
+        margin-top: -12px;
+    }
+    .page6-con .we {
+        margin-left: 40px;
+    }
+    .page6-con .are {
+        margin-left: 40px;
+        width: 42vw
+    }
+    .page6-con h3 {
+        margin-left: 39px;
+        margin-top: 40px;
+    }
+    .Resume {
+        margin-top: -169%;
+        display: block;
+    }
+    .Resume h1 {
+        margin-top: 238%;
+        width: 140px;
+    }
+    .page8 {
+        margin-top: 35px;
+        margin-left: -33px;
+    }
+    .page8 .year1 {
+        height: 23vh;
+    }
+    .page8 .year2 {
+        height: 23vh;
+        margin-left: 21%;
+    }
+    .portfolio h1 {
+        margin-top: 40px;
+    }
+    .page9 ul {
+        display: flex;
+        margin-left: -53px;
+    }
+    .page9 ul li {
+        display: block;
+    }
+    .page9 .white {
+        margin-top: -15px
+    }
+    .page10 {
+        margin-left: 34px;
+        display: flex;
+    }
+    .first img {
+        width: 30vw;
+    }
+    .second img {
+        width: 30vw
+    }
+    .third img {
+        width: 30vw
+    }
+    .get {
+        margin-left: 37%;
+    }
+    .page11 {
+        margin-left: -175px;
+    }
+    .call #call1 {
+        margin-left: 65px;
+    }
+    .call h1 {
+        margin-left: 35px;
+    }
+    .call p {
+        margin-left: -4px;
+        width: 50vw;
+    }
+    .mail {
+        margin-left: 118px;
+    }
+    .mail h1 {
+        margin-left: -83px;
+    }
+    .mail p {
+        margin-left: -111px;
+    }
+    .mail #mail1 {
+        margin-left: -34px;
+    }
+    .form {
+        margin-left: 21px;
+    }
+    .contact .user {
+        padding: 0% 23.5%;
+        margin-left: -92px;
+        width: 0px;
+    }
+    .contact .pass {
+        padding: 0% 14.5%;
+        margin-left: 33px;
+    }
+    .contact .email {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .contact .comm {
+        padding: 0% 40.5%;
+        margin-left: -92px;
+    }
+    .send {
+        margin-top: 18px;
+        margin-left: 51px;
     }
 }
